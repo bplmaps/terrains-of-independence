@@ -10,9 +10,9 @@ object_list:
     title: North America from the French of Mr. D'Anville, improved with the back settlements of Virginia and course of Ohio, illustrated with geographical and historical remarks
     creator: Thomas Jefferys
     year: 1755
-    dimensions: 47 × 51 cm
+    dimensions: 47 x 51 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:6t053n91f
+    link: https://www.argomaps.org/maps/commonwealth:6t053n91f
     figure:
       - id: figure--commonwealth:6t053n91f
   - id: commonwealth:3f462w352
@@ -21,7 +21,7 @@ object_list:
     year: 1776
     dimensions: 46 x 65 cm
     location: Mapping Boston Collection
-    link:  https://www.argomaps.org/maps/commonwealth:3f462w352
+    link: https://www.argomaps.org/maps/commonwealth:3f462w352
     figure:
       - id: figure--commonwealth:3f462w352
   - id: commonwealth:8p58wp59k
@@ -30,7 +30,7 @@ object_list:
     year: 1775
     dimensions: 25 x 26 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:8p58wp59k
+    link: https://www.argomaps.org/maps/commonwealth:8p58wp59k
     figure:
       - id: figure--commonwealth:8p58wp59k
   - id: commonwealth:3f462v496
@@ -39,7 +39,7 @@ object_list:
     year: 1769
     dimensions: 44 x 61 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:3f462v496
+    link: https://www.argomaps.org/maps/commonwealth:3f462v496
     figure:
       - id: figure--commonwealth:3f462v496
   - id: commonwealth:9s1619609
@@ -47,7 +47,7 @@ object_list:
     year: 1775
     dimensions: 44 x 38 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:9s1619609
+    link: https://www.argomaps.org/maps/commonwealth:9s1619609
     figure:
       - id: figure--commonwealth:9s1619609
   - id: commonwealth:t722hs667
@@ -55,8 +55,8 @@ object_list:
     creator: John Montrésor
     year: 1771
     dimensions: 76 x 115
-    location: 	Library of Congress Geography and Map Division
-    link:  https://www.argomaps.org/maps/commonwealth:t722hs667
+    location: Library of Congress Geography and Map Division
+    link: https://www.argomaps.org/maps/commonwealth:t722hs667
     figure:
       - id: figure--commonwealth:t722hs667
   - id: commonwealth:3f462x846
@@ -65,7 +65,7 @@ object_list:
     year: 1783
     dimensions: 52 x 62 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://collections.leventhalmap.org/search/commonwealth:3f462x846
+    link: https://collections.leventhalmap.org/search/commonwealth:3f462x846
     figure:
       - id: figure--commonwealth:3f462x846
   - id: commonwealth:3f4630606
@@ -74,16 +74,16 @@ object_list:
     year: 1801
     dimensions: 
     location: Mapping Boston Collection
-    link:  https://collections.leventhalmap.org/search/commonwealth:3f4630606
+    link: https://collections.leventhalmap.org/search/commonwealth:3f4630606
     figure:
       - id: figure--commonwealth:3f4630606
   - id: commonwealth:4m90fp515
     title: A new map of North America
-    creator: Jean Baptiste Bourguignon d’Anville and Robert Sayer
+    creator: Jean Baptiste Bourguignon d'Anville and Robert Sayer
     year: 1763
     dimensions: 56 x 93 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:4m90fp515
+    link: https://www.argomaps.org/maps/commonwealth:4m90fp515
     figure:
       - id: figure--commonwealth:4m90fp515
   - id: commonwealth:d7920271g
@@ -92,7 +92,7 @@ object_list:
     year: 1755
     dimensions: 42 x 50 cm
     location: MacLean Collection Map Library
-    link:  https://www.argomaps.org/maps/commonwealth:d7920271g
+    link: https://www.argomaps.org/maps/commonwealth:d7920271g
     figure:
       - id: figure--commonwealth:d7920271g
   - id: commonwealth:3f462t67x
@@ -101,7 +101,7 @@ object_list:
     year: 1737
     dimensions: 59 x 79 cm.
     location: Mapping Boston Collection
-    link:  https://collections.leventhalmap.org/search/commonwealth:3f462t67x
+    link: https://collections.leventhalmap.org/search/commonwealth:3f462t67x
     figure:
       - id: figure--commonwealth:3f462t67x
   - id: commonwealth:2514p1185
@@ -110,7 +110,7 @@ object_list:
     year: 1786
     dimensions: 104 x 119 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://collections.leventhalmap.org/search/commonwealth:2514p1185
+    link: https://collections.leventhalmap.org/search/commonwealth:2514p1185
     figure:
       - id: figure--commonwealth:2514p1185
   - id: commonwealth:6t053p30x
@@ -119,7 +119,7 @@ object_list:
     year: 1777
     dimensions: 103 x 97 cm, on sheets 54 x 100 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link:  https://www.argomaps.org/maps/commonwealth:6t053p30x
+    link: https://www.argomaps.org/maps/commonwealth:6t053p30x
     figure:
       - id: figure--commonwealth:6t053p30x
   - id: commonwealth:3f462v674
@@ -128,15 +128,15 @@ object_list:
     year: 1772
     dimensions: 116 x 53 cm
     location: Mapping Boston Collection
-    link:  https://collections.leventhalmap.org/search/commonwealth:3f462v674
+    link: https://collections.leventhalmap.org/search/commonwealth:3f462v674
     figure:
       - id: figure--commonwealth:3f462v674
   - id: commonwealth:8049g959w
     title: United States of Nth. America
-    creator: Pierre Tardieu
+    creator: Pierre Antoine Tardieu
     year: 1802
     dimensions: 124 x 138 cm
     location: Norman B. Leventhal Map & Education Center
-    link:  https://collections.leventhalmap.org/search/commonwealth:8049g959w
+    link: https://collections.leventhalmap.org/search/commonwealth:8049g959w
     figure:
       - id: figure--commonwealth:8049g959w
