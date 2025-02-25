@@ -78,30 +78,15 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
 
-@if $theme == classic {
-  // Classic Theme
-  $quire-primary-font: $noto-serif !default;
-  $quire-headings-font: $times-serif !default;
-  $quire-footnotes-font: $noto-sans !default;
-  $quire-navigation-font: $noto-sans !default;
+  $quire-primary-font: pliego, serif !default;
+  $quire-headings-font: big-caslon-fb, serif !default;
+  $quire-footnotes-font: pliego, serif !default;
+  $quire-navigation-font: pliego, serif !default;
   $accent-color: $blue !default;
   $content-background-color: $white !default;
   $secondary-background-color: $content-background-color;
-} @else {
-  // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
-  $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
-  $accent-color: $red !default;
-  $content-background-color: $white !default;
-  $secondary-background-color: $off-white !default;
-}
+
 
 // Navbar
 // -----------------------------------------------------------------------------

@@ -72,7 +72,7 @@ module.exports = function(eleventyConfig) {
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 
-        <link rel="icon" href="/_assets/images/icons/favicon.ico" />
+        <link rel="icon" href="/_assets/images/icons/LMEC_compass.png" />
         <!--
           styles are already imported in _assets/javascript/application/index.js
           and rendered as inline minified <style type="text/css">...</style> blocks,
