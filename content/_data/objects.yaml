@@ -65,7 +65,7 @@ object_list:
     year: 1783
     dimensions: 52 × 62 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link: https://collections.leventhalmap.org/search/commonwealth:3f462x846
+    link: https://www.argomaps.org/maps/commonwealth:3f462x846
     figure:
       - id: figure--commonwealth:3f462x846
   - id: commonwealth:3f4630606
@@ -110,7 +110,7 @@ object_list:
     year: 1786
     dimensions: 104 × 119 cm
     location: Leventhal Map & Education Center at the Boston Public Library
-    link: https://collections.leventhalmap.org/search/commonwealth:2514p1185
+    link: https://www.argomaps.org/maps/commonwealth:2514p1185
     figure:
       - id: figure--commonwealth:2514p1185
   - id: commonwealth:6t053p30x
