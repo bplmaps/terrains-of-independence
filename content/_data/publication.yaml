@@ -42,7 +42,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Katy Lasdow and Garrett Dash Nelson
 
 contributor:
   - id: gnelson
@@ -77,10 +77,17 @@ license:
 
 resource_link:
   - type: footer-link
-    name: Leventhal Center
+    name: Leventhal Center Home
     link_relation: about
     url: https://www.leventhalmap.org
-
+  - type: footer-link
+    name: American Revolutionary Geographies Online
+    link_relation: about
+    url: https://www.argomaps.org
+  - type: footer-link
+    name: Boston Public Library
+    link_relation: about
+    url: https://www.bpl.org
 # ------------------------------------------------------------------------------
 # Subjects
 # ------------------------------------------------------------------------------

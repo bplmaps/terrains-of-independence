@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+image: TOI-background.jpg
 ---
 
 The American Revolution is a profoundly place-based story. In 1775, war ignited in Boston and its surrounding towns, fueled by conflicts over trade, governance, and imperial authority. 

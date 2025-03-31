@@ -558,6 +558,11 @@ $image-divider-height: 16px;
     padding-bottom: 1.5rem;
 
     .content {
+      .guidepost {
+        border-left: 3px solid $accent-color;
+        padding: 12px;
+      }
+
       background-color: $content-background-color;
       margin-top: 0;
       padding: 0 2rem 2.5em;
