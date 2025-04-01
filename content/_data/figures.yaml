@@ -48,33 +48,37 @@ figure_list:
   - id: merchants-row
     src: landmarks/merchants-row.jpg
     alt: "Engraving showing a view of Merchants Row from the Harbor"
-    caption: "Merchants Row"
+    caption: "Joseph Andrews, 1827 · [Boston Public Library](https://www.digitalcommonwealth.org/search/commonwealth:8k71nw83q)"
   - id: popes-night
     src: landmarks/pope-night.jpg
     alt: "Printed broadside with the text Extraordinary Verses on Pope-Night"
-    caption: "Pope Night"
+    caption: "1768 · [Library of Congress](https://lccn.loc.gov/2020776847)"
   - id: revere-obelisk
     src: landmarks/revere-obelisk.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "Paul Revere, 1766 · [Library of Congress](https://lccn.loc.gov/2003690787)"
   - id: liberty-tree
     src: landmarks/liberty-tree.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "Robert Sayer and John Bennett, 1774 · [Library of Congress](https://lccn.loc.gov/2004673305)"
   - id: quaker-meeting-house
     src: landmarks/quaker-meeting-house.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "Lawrence Park, 1909 · [Boston Athenæum](https://cdm.bostonathenaeum.org/digital/collection/p15482coll8/id/13/rec/1)"
   - id: tea-destroyed
     src: landmarks/tea-destroyed.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "1773 · [Library of Congress](http://hdl.loc.gov/loc.rbc/rbpe.0370240a)"
   - id: gages-lines
     src: landmarks/gages-lines.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "Thomas Walker and Robert Aitken, 1775 · [Leventhal Map & Education Center](https://www.argomaps.org/maps/commonwealth:3f462v984/)"
   - id: prince-hall
     src: landmarks/prince-hall.jpg
     alt: "TKTK"
-    caption: "TKTK"
+    caption: "Charles H. Bruce, ca. 1910 · [Northeastern University Library, Archives and Special Collections](https://repository.library.northeastern.edu/files/neu:28213)"
+  - id: powder-horn
+    src: artifacts/powder-horn.jpg
+    alt: "TKTK"
+    caption: "E.B., Powder horn with map of Boston and Charlestown, 1777 · [Leventhal Map & Education Center](https://www.argomaps.org/maps/commonwealth:q524n340p/)"
 

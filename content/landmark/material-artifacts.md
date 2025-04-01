@@ -22,8 +22,7 @@ Many ships made voyages along the coast of the New England region in the sevente
 
 ## City
 
-Powder Horn with Map of Boston and Charleston, by E.B., 1775
-Leventhal Map & Education Center
+{% figure 'powder-horn' %}
 
 This powder horn, signed “E.B.,” belonged to a British soldier occupying Boston from 1775 to 1776. Used for storing gunpowder, with removable plugs at both ends for filling and pouring, the horn features a map of Boston and Charlestown. It’s likely that E.B. decorated this horn himself, carving a crown to symbolize his loyalty to the king, and a British man-of-war ship. He also inscribed his contempt for the Patriots: “A Pox on rebels in their crymes [crimes].”
 

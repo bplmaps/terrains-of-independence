@@ -51,6 +51,13 @@ html {
       font-weight: 500;
       color: $accent-color;
     }
+
+    .small-caps {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 90%;
+      font-weight: bold;
+    }
   }
 
   @media screen {
