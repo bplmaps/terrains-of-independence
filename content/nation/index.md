@@ -1,6 +1,7 @@
 ---
 title: Nation
-layout: page
+layout: table-of-contents
+presentation: list
 order: 500
 menu: true
 toc: true

@@ -1,6 +1,7 @@
 ---
 title: Region
-layout: page
+layout: table-of-contents
+presentation: list
 order: 200
 menu: true
 toc: true

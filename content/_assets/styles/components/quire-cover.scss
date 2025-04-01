@@ -69,11 +69,17 @@
 
     .title {
       font-family: $quire-headings-font;
-      font-size: calc(2rem * #{$quire-cover-text-scale});
+      font-size: calc(1.5rem * #{$quire-cover-text-scale});
+      @media screen and (min-width: 500px) {
+        font-size: calc(3rem * #{$quire-cover-text-scale});
+      }
+      color: rgba(255,255,255,0.85);
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
       font-weight: 700;
       line-height: 1.07;
       margin-bottom: calc(.5rem * #{$quire-cover-text-scale});
-      color: $quire-cover-text-color;
       @media print {
         font-size: 40pt;
         margin-top: 0;

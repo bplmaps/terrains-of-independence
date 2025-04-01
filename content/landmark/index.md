@@ -1,6 +1,7 @@
 ---
 title: Landmark
-layout: page
+layout: table-of-contents
+presentation: list
 order: 400
 menu: true
 toc: true

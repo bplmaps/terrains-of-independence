@@ -45,3 +45,36 @@ figure_list:
   - id: figure--commonwealth:8049g959w
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:8049g959w/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/8049g959w/canvas/8049g960n
+  - id: merchants-row
+    src: landmarks/merchants-row.jpg
+    alt: "Engraving showing a view of Merchants Row from the Harbor"
+    caption: "Merchants Row"
+  - id: popes-night
+    src: landmarks/pope-night.jpg
+    alt: "Printed broadside with the text Extraordinary Verses on Pope-Night"
+    caption: "Pope Night"
+  - id: revere-obelisk
+    src: landmarks/revere-obelisk.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+  - id: liberty-tree
+    src: landmarks/liberty-tree.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+  - id: quaker-meeting-house
+    src: landmarks/quaker-meeting-house.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+  - id: tea-destroyed
+    src: landmarks/tea-destroyed.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+  - id: gages-lines
+    src: landmarks/gages-lines.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+  - id: prince-hall
+    src: landmarks/prince-hall.jpg
+    alt: "TKTK"
+    caption: "TKTK"
+

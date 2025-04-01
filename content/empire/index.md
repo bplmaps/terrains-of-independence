@@ -1,6 +1,7 @@
 ---
 title: Empire
-layout: page
+layout: table-of-contents
+presentation: list
 order: 100
 menu: true
 toc: true

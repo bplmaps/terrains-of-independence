@@ -1,6 +1,7 @@
 ---
 title: City
-layout: page
+layout: table-of-contents
+presentation: list
 order: 300
 menu: true
 toc: true

@@ -399,9 +399,10 @@ $image-divider-height: 16px;
     // @media print {
     //   border: 1px solid Lime;
     // }
-    font-family: $quire-primary-font;
+    font-family: $secondary-font;
 
     a {
+      font-weight: 550;
       @if $theme == classic {
         color: background-color-text-classic($content-background-color);
         border-bottom: 1px
@@ -559,8 +560,18 @@ $image-divider-height: 16px;
 
     .content {
       .guidepost {
-        border-left: 3px solid $accent-color;
-        padding: 12px;
+        border-left: 4px solid $accent-color;
+        padding: 16px;
+        font-family: $secondary-font;
+        font-weight: 500;
+        color: $accent-color;
+      }
+
+      img.peek-image {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 100px;
       }
 
       background-color: $content-background-color;

@@ -43,6 +43,16 @@ html {
 // -----------------------------------------------------------------------------
 .quire-page {
 
+  .content {
+    .guidepost {
+      border-left: 4px solid $accent-color;
+      padding: 16px;
+      font-family: $secondary-font;
+      font-weight: 500;
+      color: $accent-color;
+    }
+  }
+
   @media screen {
     min-height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
   }
