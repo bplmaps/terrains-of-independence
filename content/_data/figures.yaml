@@ -81,4 +81,26 @@ figure_list:
     src: artifacts/powder-horn.jpg
     alt: "TKTK"
     caption: "E.B., Powder horn with map of Boston and Charlestown, 1777 · [Leventhal Map & Education Center](https://www.argomaps.org/maps/commonwealth:q524n340p/)"
+  - id: brick
+    src: artifacts/brick.jpg
+    alt: "TKTK"
+    caption: "Powder House Brick, 1706-1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
+  - id: flint
+    src: artifacts/flint.jpg
+    alt: "TKTK"
+    caption: "Lead Musket Ball, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
+  - id: musket-ball
+    src: artifacts/musket-ball.jpg
+    alt: "TKTK"
+    caption: "Gunflint, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
+  - id: spoon
+    src: artifacts/spoon.jpg
+    alt: "TKTK"
+    caption: "Pewter spoon with relief portrait of King George I, early 1700s, excavated by Louis Berger & Associates, Inc. at Faneuil Hall, 1990-1991 · City of Boston Archaeology Program"
+  - id: plate-sherd
+    src: artifacts/plate-sherd.jpg
+    alt: "TKTK"
+    caption: "Detail of the Boston State House from a blue transfer-printed plate, early 1800s, excavated by the City of Boston Archaeology Program at the Parker-Emery House in the North End, 2019-2020 · City of Boston Archaeology Program"
+
+
 
