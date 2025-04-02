@@ -1,5 +1,5 @@
 ---
-title: Material Artifacts
+title: Objects That Tell Stories
 layout: page
 order: 403
 menu: true

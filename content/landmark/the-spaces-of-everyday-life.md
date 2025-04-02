@@ -1,5 +1,5 @@
 ---
-title: Stories of Boston Landmarks
+title: The Spaces of Everyday Life
 layout: page
 order: 401
 menu: true

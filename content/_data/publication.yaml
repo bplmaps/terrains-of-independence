@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://www.leventhalmap.org/digital-exhibitions/terrains-of-independence'
+url: 'https://www.leventhalmap.org/digital-exhibitions/terrains-of-independence'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -104,10 +104,10 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
-    summary:
+  - date: 2025-04-03
+    summary: First publication
 
-repository_url:
+repository_url: https://github.com/bplmaps/terrains-of-independence/
 
 # ------------------------------------------------------------------------------
 # Promo Image
