@@ -88,11 +88,11 @@ figure_list:
   - id: flint
     src: artifacts/flint.jpg
     alt: "TKTK"
-    caption: "Lead Musket Ball, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
+    caption: "Gunflint, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
   - id: musket-ball
     src: artifacts/musket-ball.jpg
     alt: "TKTK"
-    caption: "Gunflint, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
+    caption: "Lead Musket Ball, c. 1775, excavated by the City of Boston Archaeology Program at the Boston Common, 1986-1987 · City of Boston Archaeology Program"
   - id: spoon
     src: artifacts/spoon.jpg
     alt: "TKTK"
