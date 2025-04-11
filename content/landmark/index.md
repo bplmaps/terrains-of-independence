@@ -1,7 +1,7 @@
 ---
 title: Landmark
 layout: table-of-contents
-presentation: list
+presentation: grid
 order: 400
 menu: true
 toc: true

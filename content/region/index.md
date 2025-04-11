@@ -1,7 +1,7 @@
 ---
 title: Region
 layout: table-of-contents
-presentation: list
+presentation: grid
 order: 200
 menu: true
 toc: true

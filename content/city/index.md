@@ -1,7 +1,7 @@
 ---
 title: City
 layout: table-of-contents
-presentation: list
+presentation: grid
 order: 300
 menu: true
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: Nation
 layout: table-of-contents
-presentation: list
+presentation: grid
 order: 500
 menu: true
 toc: true
