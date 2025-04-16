@@ -3,48 +3,78 @@ figure_list:
   - id: figure--commonwealth:6t053n91f
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:6t053n91f/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/6t053n91f/canvas/6t053n92q
+    printImage: main_figures/6t053n92q.jpg
+    src: main_figures/6t053n92q.jpg
   - id: figure--commonwealth:3f462w352
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f462w352/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f462w352/canvas/3f463c12t
+    printImage: main_figures/3f463c12t.jpg
+    src: main_figures/3f463c12t.jpg
   - id: figure--commonwealth:8p58wp59k
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:8p58wp59k/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/8p58wp59k/canvas/kk91nv539
+    printImage: main_figures/kk91nv539.jpg
+    src: main_figures/kk91nv539.jpg
   - id: figure--commonwealth:3f462v496
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f462v496/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f462v496/canvas/3f462v50z
+    printImage: main_figures/3f462v50z.jpg
+    src: main_figures/3f462v50z.jpg
   - id: figure--commonwealth:9s1619609
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:9s1619609/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/9s1619609/canvas/1r66j5942
+    printImage: main_figures/1r66j5942.jpg
+    src: main_figures/1r66j5942.jpg
   - id: figure--commonwealth:t722hs667
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:t722hs667/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/t722hs667/canvas/t722hs67h
+    printImage: main_figures/t722hs67h.jpg
+    src: main_figures/t722hs67h.jpg
   - id: figure--commonwealth:3f462x846
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f462x846/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f462x846/canvas/3f462x85g
+    printImage: main_figures/3f462x85g.jpg
+    src: main_figures/3f462x85g.jpg
   - id: figure--commonwealth:3f4630606
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f4630606/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f4630606/canvas/3f463061g
+    printImage: main_figures/3f463061g.jpg
+    src: main_figures/3f463061g.jpg
   - id: figure--commonwealth:4m90fp515
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:4m90fp515/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/4m90fp515/canvas/0r96fk575
+    printImage: main_figures/0r96fk575.jpg
+    src: main_figures/0r96fk575.jpg
   - id: figure--commonwealth:d7920271g
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:d7920271g/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/d7920271g/canvas/1r66qm42v
+    printImage: main_figures/1r66qm42v.jpg
+    src: main_figures/1r66qm42v.jpg
   - id: figure--commonwealth:3f462t67x
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f462t67x/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f462t67x/canvas/3f462t686
+    printImage: main_figures/3f462t686.jpg
+    src: main_figures/3f462t686.jpg
   - id: figure--commonwealth:2514p1185
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:2514p1185/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/2514p1185/canvas/2514p119f
+    printImage: main_figures/2514p119f.jpg
+    src: main_figures/2514p119f.jpg
   - id: figure--commonwealth:6t053p30x
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:6t053p30x/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/6t053p30x/canvas/6t053p316
+    printImage: main_figures/6t053p316.jpg
+    src: main_figures/6t053p316.jpg
   - id: figure--commonwealth:3f462v674
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:3f462v674/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/3f462v674/canvas/3f462v68d
+    printImage: main_figures/3f462v68d.jpg
+    src: main_figures/3f462v68d.jpg
   - id: figure--commonwealth:8049g959w
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:8049g959w/manifest.json
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/8049g959w/canvas/8049g960n
+    printImage: main_figures/8049g960n.jpg
+    src: main_figures/8049g960n.jpg
   - id: merchants-row
     src: landmarks/merchants-row.jpg
     alt: "Engraving showing a view of Merchants Row from the Harbor"

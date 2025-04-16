@@ -1,7 +1,7 @@
 ---
 title: Empire
 layout: table-of-contents
-presentation: list
+presentation: grid
 order: 100
 menu: true
 toc: true
