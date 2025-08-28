@@ -1,15 +1,14 @@
 ---
-title: On the ground in 1769
-layout: entry
+title: On the Ground in 1769
+layout: essay
 order: 304
 menu: true
 toc: true
-presentation: side-by-side
-object:
-    - id: teen-curators
 ---
 
 Teen curators selected, researched, and wrote about key Revolutionary sites in Boston. Their findings appear below, overlaid on a contemporary map that also includes views of [William Price’s 1769 *A New Plan of Ye Great Town of Boston*](../a-new-plan-of-ye-great-town/). This project connects past and present, revealing the city’s layered history.
+
+{% figure 'figure--teen-curators' %}
 
 ### About the Teen Curators
 
