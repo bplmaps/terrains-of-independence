@@ -140,3 +140,9 @@ object_list:
     link: https://collections.leventhalmap.org/search/commonwealth:8049g959w
     figure:
       - id: figure--commonwealth:8049g959w
+  - id: teen-curators
+    title: Map graphic based on William Price, "A new plan of ye great town of Boston"
+    year: 2025
+    location: Norman B. Leventhal Map & Education Center
+    figure:
+      - id: figure--teen-curators

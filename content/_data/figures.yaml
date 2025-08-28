@@ -131,6 +131,7 @@ figure_list:
     src: artifacts/plate-sherd.jpg
     alt: "TKTK"
     caption: "Detail of the Boston State House from a blue transfer-printed plate, early 1800s, excavated by the City of Boston Archaeology Program at the Parker-Emery House in the North End, 2019-2020 · City of Boston Archaeology Program"
-
+  - id: figure--teen-curators
+    src: main_figures/teen-curators.jpg
 
 
